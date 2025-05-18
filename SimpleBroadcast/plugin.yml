@@ -1,0 +1,12 @@
+name: SimpleBroadcast
+main: SimpleBroadcast\Main
+version: 1.0.0
+api: 5.0.0
+author: Dvyskz
+commands:
+  ann:
+    description: Envía un anuncio a todos los jugadores.
+    permission: SimpleBroadcast.use
+permissions:
+  SimpleBroadcast.use:
+    default: op
