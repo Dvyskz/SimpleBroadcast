@@ -1,2 +1,2 @@
 # SimpleBroadcast
-# By: Dvyskz
+A simple broadcast for Pocketmine
